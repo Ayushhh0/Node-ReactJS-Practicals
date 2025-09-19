@@ -1,4 +1,4 @@
-# Java Practicals — GF202347216
+# JS Practicals — GF202347216
 
 This repository contains my Java practical assignments.
 
